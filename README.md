@@ -1,4 +1,4 @@
-# Stellar Notes DApp
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/a10208eb-71a4-4bb5-91d3-82e33e91700a" /># Stellar Notes DApp
 
 **Stellar Notes DApp** - Blockchain-Based Decentralized Note-Taking System
 
@@ -60,7 +60,7 @@ We envision a future where digital information is truly personal and sovereign, 
 ## Contract Details
 
 - Contract Address: CBLU4IUASQ4WUMOXBFLZRSBBLILGOH33GS4LUPKFBCCCMJCDQNMF7G2M
-  ![alt text](screenshot.png)
+
 
 ## Future Scope
 
