@@ -1,3 +1,4 @@
+![Uploading Screenshot 2026-04-15 121355.png…]()
 # Stellar Notes DApp
 
 **Stellar Notes DApp** - Blockchain-Based Decentralized Note-Taking System
