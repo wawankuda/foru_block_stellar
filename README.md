@@ -1,4 +1,4 @@
-![Uploading Screenshot 2026-04-15 121355.png…]()
+<img width="1919" height="1005" alt="Screenshot 2026-04-15 121355" src="https://github.com/user-attachments/assets/f8a1a0da-8b47-4b8c-b9ad-b11ad6458de9" />
 # Stellar Notes DApp
 
 **Stellar Notes DApp** - Blockchain-Based Decentralized Note-Taking System
